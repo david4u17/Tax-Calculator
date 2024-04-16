@@ -74,8 +74,9 @@ function validateAndCalculateTax(event) {
         let taxAmount = taxAndIncome.tax;
         let postTaxIncome = taxAndIncome.overallIncome;
 
-        document.getElementById("taxResult").innerText = "Tax Amount = ₹ " + taxAmount.toFixed(2);
-        document.getElementById("taxResult2").innerText = " Your overall income will be = ₹ " + postTaxIncome.toFixed(2) + " (after tax deductions) ";
+        document.getElementById("taxResult").innerHTML = "Tax Amount = <b> ₹ " + taxAmount.toFixed(2)+"</b>";
+        document.getElementById("taxResult2").innerHTML = "Your overall income will be = <b> ₹ " + postTaxIncome.toFixed(2) + "</b> (after tax deductions)";
+
 
         // Modal
         let modal = new bootstrap.Modal(document.getElementById("taxResultModal"));
