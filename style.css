@@ -1,0 +1,43 @@
+.form-container {
+    max-width: 500px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #f5f3f3;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-container h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.error-icon {
+    display: none;
+    cursor: pointer;
+}
+
+.question-icon {
+    cursor: pointer;
+}
+
+.exclamation-icon {
+    color: #ff0000;
+}
+
+.input-group {
+    position: relative;
+}
+
+.error-icon {
+    position: absolute;
+    right: 1px;
+    border: none;
+    top: 50%;
+    background-color: #ffffff;
+    transform: translateY(-50%);
+}
