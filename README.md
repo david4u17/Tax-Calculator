@@ -40,7 +40,7 @@ cd Fyle-challenge
 
 ## Contributors
 
-- [David Smith](https://github.com/david4u17)
+- [David Kawadkar](https://github.com/david4u17)
 
 ## Screenshot of Passing Tests
 
