@@ -56,6 +56,9 @@ cd Fyle-challenge
 
 ![Passing Tests](screenshots/Screenshot10.png)
 
+<br>
+
+
 - When you hover on (?) icon you can see the field details in the tooltip.
 
 ![Passing Tests](screenshots/Screenshot2.png)
@@ -63,6 +66,7 @@ cd Fyle-challenge
 <br>
 
   - If user has not entered any value and clicks on submit, show a error icon hovering over which should show that input field is mandatory
+
 
 ![Passing Tests](screenshots/Screenshot3.png)
 
