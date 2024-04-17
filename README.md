@@ -44,7 +44,14 @@ cd Fyle-challenge
 
 ## Screenshot of Passing Tests
 
+#Income Tax Calculator
 
+ - Error-icon is not visible by default
+   
+![Passing Tests](screenshots/Screenshot9.png)
+
+<br>
+ - If user put characters in input field then the error-icon will appear next to the field
 ![Passing Tests](screenshots/Screenshot1.png)
 
 ![Passing Tests](screenshots/Screenshot2.png)
@@ -61,17 +68,24 @@ cd Fyle-challenge
 
 ![Passing Tests](screenshots/Screenshot4.png)
 
+
+ <br>
+
+  - If user has not entered this value and clicks on submit, show a error icon hovering over which should show that input field is mandatory
+
 ![Passing Tests](screenshots/Screenshot5.png)
 
+ <br>
 
 # Income over 8 (>) Lakhs, the amount over 8 Lakhs is taxed at
   - 30% for people with age < 40
   - Example
     - Age = 34, Income = 08 Lakhs, Extra Income = 03 Lakhs, deductions = 02 Lakhs, tax = .3 * (9 - 8) = .3 * 1 = Rs. 30,000
 
-
 ![Passing Tests](screenshots/Screenshot6.png)
 
+
+   <br>
 
   - 40% for people with age ≥ 40 but < 60
 
@@ -79,6 +93,7 @@ cd Fyle-challenge
 ![Passing Tests](screenshots/Screenshot7.png)
 
 
+   <br>
 
   - 10% for people with age ≥ 60
 
