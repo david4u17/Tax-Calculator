@@ -62,7 +62,7 @@ cd Fyle-challenge
 
 <br>
 
-  - If user has not entered this value and clicks on submit, show a error icon hovering over which should show that input field is mandatory
+  - If user has not entered any value and clicks on submit, show a error icon hovering over which should show that input field is mandatory
 
 ![Passing Tests](screenshots/Screenshot3.png)
 
