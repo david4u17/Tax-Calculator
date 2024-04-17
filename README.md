@@ -51,6 +51,14 @@ cd Fyle-challenge
 
 ![Passing Tests](screenshots/Screenshot3.png)
 
+
+# The age dropdown field should have 3 values -
+   - <40
+   - ≥ 40 & < 60
+   - ≥ 60
+
+      <br>
+
 ![Passing Tests](screenshots/Screenshot4.png)
 
 ![Passing Tests](screenshots/Screenshot5.png)
