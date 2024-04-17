@@ -55,9 +55,25 @@ cd Fyle-challenge
 
 ![Passing Tests](screenshots/Screenshot5.png)
 
+
+# Income over 8 (>) Lakhs, the amount over 8 Lakhs is taxed at
+  - 30% for people with age < 40
+  - Example
+    - Age = 34, Income = 08 Lakhs, Extra Income = 03 Lakhs, deductions = 02 Lakhs, tax = .3 * (9 - 8) = .3 * 1 = Rs. 30,000
+
+
 ![Passing Tests](screenshots/Screenshot6.png)
 
+
+  - 40% for people with age ≥ 40 but < 60
+
+
 ![Passing Tests](screenshots/Screenshot7.png)
+
+
+
+  - 10% for people with age ≥ 60
+
 
 ![Passing Tests](screenshots/Screenshot8.png)
 
