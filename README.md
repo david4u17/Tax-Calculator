@@ -52,12 +52,16 @@ cd Fyle-challenge
 
 <br>
  - If user put characters in input field then the error-icon will appear next to the field
+ 
 ![Passing Tests](screenshots/Screenshot1.png)
 
 ![Passing Tests](screenshots/Screenshot2.png)
 
+  - If user has not entered this value and clicks on submit, show a error icon hovering over which should show that input field is mandatory
+
 ![Passing Tests](screenshots/Screenshot3.png)
 
+<br>
 
 # The age dropdown field should have 3 values -
    - <40
@@ -71,7 +75,6 @@ cd Fyle-challenge
 
  <br>
 
-  - If user has not entered this value and clicks on submit, show a error icon hovering over which should show that input field is mandatory
 
 ![Passing Tests](screenshots/Screenshot5.png)
 
