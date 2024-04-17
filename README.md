@@ -44,7 +44,7 @@ cd Fyle-challenge
 
 ## Screenshot of Passing Tests
 
-![Passing Tests](screenshots/Screenshot (187).png)
+![Passing Tests](screenshots/Screenshot1.png)
 
 
 
