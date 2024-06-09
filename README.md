@@ -1,4 +1,4 @@
-# Fyle Challenge - Tax Calculator
+# Tax Calculator
 
 This is a web application developed as part of the Fyle Internship Challenge. It allows users to calculate their tax based on their income, age group, and deductions.
 
